@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radhikachoora
-- 👀 I’m interested in Python Development, Data Science
-- 🌱 I’m currently learning Data science and Python
+- 👀 I’m interested in 
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
